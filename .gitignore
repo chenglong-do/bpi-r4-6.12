@@ -4,3 +4,5 @@
 # Editor backups / temp
 *~
 *.swp
+
+.idea
